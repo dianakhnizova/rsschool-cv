@@ -1,5 +1,7 @@
 # Diana Khnizova
-<image src="D:\rs_school\rk4mBnCoq3c.jpg"></image>
+![](https://i.pinimg.com/474x/af/39/03/af390395d683899c048cf9b34925f3e0.jpg)
+## Motivation
+> Only you can create the reality you want to wake up to every day 
 ## Contacts
  * Location: Kazakhstan, Almaty
  * Email: khnizovad@gmail.com
