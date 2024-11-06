@@ -1,2 +1,1 @@
-# Link
-<https://dianakhnizova.github.io/rsschool-cv/cv>
+https://dianakhnizova.github.io/rsschool-cv/
